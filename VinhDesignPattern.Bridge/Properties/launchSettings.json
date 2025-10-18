@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "VinhDesignPattern.Bridge": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
