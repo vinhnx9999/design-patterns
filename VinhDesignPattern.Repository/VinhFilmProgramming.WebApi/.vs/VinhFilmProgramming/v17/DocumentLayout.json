@@ -1,0 +1,286 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Containerization\\Vinh-Github\\VinhFilmProgramming\\VinhFilmProgramming.WebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23D34D0A-CAD7-416C-9E42-6C0D6B743910}|..\\VinhFilmProgramming.Domain\\VinhFilmProgramming.Domain.csproj|d:\\containerization\\vinh-github\\vinhfilmprogramming\\vinhfilmprogramming.domain\\entities\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CC1DFB-DA5B-4F8A-9A1C-C52A7F4F0949}|..\\VinhFilmProgramming.DataAccess\\VinhFilmProgramming.DataAccess.csproj|d:\\containerization\\vinh-github\\vinhfilmprogramming\\vinhfilmprogramming.dataaccess\\context\\vinhfilmdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CC1DFB-DA5B-4F8A-9A1C-C52A7F4F0949}|..\\VinhFilmProgramming.DataAccess\\VinhFilmProgramming.DataAccess.csproj|d:\\containerization\\vinh-github\\vinhfilmprogramming\\vinhfilmprogramming.dataaccess\\implementation\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00261BF8-913D-459C-B0C5-BB94B6C67210}|VinhFilmProgramming.WebApi.csproj|d:\\containerization\\vinh-github\\vinhfilmprogramming\\vinhfilmprogramming.webapi\\controllers\\actorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00261BF8-913D-459C-B0C5-BB94B6C67210}|VinhFilmProgramming.WebApi.csproj|solutionrelative:controllers\\actorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00261BF8-913D-459C-B0C5-BB94B6C67210}|VinhFilmProgramming.WebApi.csproj|d:\\containerization\\vinh-github\\vinhfilmprogramming\\vinhfilmprogramming.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{00261BF8-913D-459C-B0C5-BB94B6C67210}|VinhFilmProgramming.WebApi.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CC1DFB-DA5B-4F8A-9A1C-C52A7F4F0949}|..\\VinhFilmProgramming.DataAccess\\VinhFilmProgramming.DataAccess.csproj|d:\\containerization\\vinh-github\\vinhfilmprogramming\\vinhfilmprogramming.dataaccess\\implementation\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00261BF8-913D-459C-B0C5-BB94B6C67210}|VinhFilmProgramming.WebApi.csproj|d:\\containerization\\vinh-github\\vinhfilmprogramming\\vinhfilmprogramming.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{00261BF8-913D-459C-B0C5-BB94B6C67210}|VinhFilmProgramming.WebApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00261BF8-913D-459C-B0C5-BB94B6C67210}|VinhFilmProgramming.WebApi.csproj|d:\\containerization\\vinh-github\\vinhfilmprogramming\\vinhfilmprogramming.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00261BF8-913D-459C-B0C5-BB94B6C67210}|VinhFilmProgramming.WebApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D34D0A-CAD7-416C-9E42-6C0D6B743910}|..\\VinhFilmProgramming.Domain\\VinhFilmProgramming.Domain.csproj|d:\\containerization\\vinh-github\\vinhfilmprogramming\\vinhfilmprogramming.domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CC1DFB-DA5B-4F8A-9A1C-C52A7F4F0949}|..\\VinhFilmProgramming.DataAccess\\VinhFilmProgramming.DataAccess.csproj|d:\\containerization\\vinh-github\\vinhfilmprogramming\\vinhfilmprogramming.dataaccess\\implementation\\filmrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CC1DFB-DA5B-4F8A-9A1C-C52A7F4F0949}|..\\VinhFilmProgramming.DataAccess\\VinhFilmProgramming.DataAccess.csproj|d:\\containerization\\vinh-github\\vinhfilmprogramming\\vinhfilmprogramming.dataaccess\\implementation\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CC1DFB-DA5B-4F8A-9A1C-C52A7F4F0949}|..\\VinhFilmProgramming.DataAccess\\VinhFilmProgramming.DataAccess.csproj|d:\\containerization\\vinh-github\\vinhfilmprogramming\\vinhfilmprogramming.dataaccess\\implementation\\biographyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CC1DFB-DA5B-4F8A-9A1C-C52A7F4F0949}|..\\VinhFilmProgramming.DataAccess\\VinhFilmProgramming.DataAccess.csproj|d:\\containerization\\vinh-github\\vinhfilmprogramming\\vinhfilmprogramming.dataaccess\\implementation\\actorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D34D0A-CAD7-416C-9E42-6C0D6B743910}|..\\VinhFilmProgramming.Domain\\VinhFilmProgramming.Domain.csproj|d:\\containerization\\vinh-github\\vinhfilmprogramming\\vinhfilmprogramming.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CC1DFB-DA5B-4F8A-9A1C-C52A7F4F0949}|..\\VinhFilmProgramming.DataAccess\\VinhFilmProgramming.DataAccess.csproj|d:\\containerization\\vinh-github\\vinhfilmprogramming\\vinhfilmprogramming.dataaccess\\vinhfilmprogramming.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D34D0A-CAD7-416C-9E42-6C0D6B743910}|..\\VinhFilmProgramming.Domain\\VinhFilmProgramming.Domain.csproj|d:\\containerization\\vinh-github\\vinhfilmprogramming\\vinhfilmprogramming.domain\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D34D0A-CAD7-416C-9E42-6C0D6B743910}|..\\VinhFilmProgramming.Domain\\VinhFilmProgramming.Domain.csproj|d:\\containerization\\vinh-github\\vinhfilmprogramming\\vinhfilmprogramming.domain\\vinhfilmprogramming.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhFilmProgramming\\VinhFilmProgramming.DataAccess\\Implementation\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "..\\VinhFilmProgramming.DataAccess\\Implementation\\CategoryRepository.cs",
+              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhFilmProgramming\\VinhFilmProgramming.DataAccess\\Implementation\\CategoryRepository.cs",
+              "RelativeToolTip": "..\\VinhFilmProgramming.DataAccess\\Implementation\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T11:39:48.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhFilmProgramming\\VinhFilmProgramming.DataAccess\\Implementation\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\VinhFilmProgramming.DataAccess\\Implementation\\UnitOfWork.cs",
+              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhFilmProgramming\\VinhFilmProgramming.DataAccess\\Implementation\\UnitOfWork.cs",
+              "RelativeToolTip": "..\\VinhFilmProgramming.DataAccess\\Implementation\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T11:38:31.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhFilmProgramming\\VinhFilmProgramming.DataAccess\\Implementation\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "..\\VinhFilmProgramming.DataAccess\\Implementation\\GenericRepository.cs",
+              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhFilmProgramming\\VinhFilmProgramming.DataAccess\\Implementation\\GenericRepository.cs",
+              "RelativeToolTip": "..\\VinhFilmProgramming.DataAccess\\Implementation\\GenericRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwBAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T11:31:24.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Actor.cs",
+              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhFilmProgramming\\VinhFilmProgramming.Domain\\Entities\\Actor.cs",
+              "RelativeDocumentMoniker": "..\\VinhFilmProgramming.Domain\\Entities\\Actor.cs",
+              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhFilmProgramming\\VinhFilmProgramming.Domain\\Entities\\Actor.cs",
+              "RelativeToolTip": "..\\VinhFilmProgramming.Domain\\Entities\\Actor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T11:20:34.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhFilmProgramming\\VinhFilmProgramming.Domain\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "..\\VinhFilmProgramming.Domain\\Entities\\BaseEntity.cs",
+              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhFilmProgramming\\VinhFilmProgramming.Domain\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "..\\VinhFilmProgramming.Domain\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T11:19:18.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VinhFilmDbContext.cs",
+              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhFilmProgramming\\VinhFilmProgramming.DataAccess\\Context\\VinhFilmDbContext.cs",
+              "RelativeDocumentMoniker": "..\\VinhFilmProgramming.DataAccess\\Context\\VinhFilmDbContext.cs",
+              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhFilmProgramming\\VinhFilmProgramming.DataAccess\\Context\\VinhFilmDbContext.cs",
+              "RelativeToolTip": "..\\VinhFilmProgramming.DataAccess\\Context\\VinhFilmDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T11:25:37.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhFilmProgramming\\VinhFilmProgramming.WebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhFilmProgramming\\VinhFilmProgramming.WebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-18T16:16:02.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhFilmProgramming\\VinhFilmProgramming.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhFilmProgramming\\VinhFilmProgramming.WebApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwBgAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T11:39:11.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BiographyRepository.cs",
+              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhFilmProgramming\\VinhFilmProgramming.DataAccess\\Implementation\\BiographyRepository.cs",
+              "RelativeDocumentMoniker": "..\\VinhFilmProgramming.DataAccess\\Implementation\\BiographyRepository.cs",
+              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhFilmProgramming\\VinhFilmProgramming.DataAccess\\Implementation\\BiographyRepository.cs",
+              "RelativeToolTip": "..\\VinhFilmProgramming.DataAccess\\Implementation\\BiographyRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T11:38:14.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ActorsController.cs",
+              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhFilmProgramming\\VinhFilmProgramming.WebApi\\Controllers\\ActorsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ActorsController.cs",
+              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhFilmProgramming\\VinhFilmProgramming.WebApi\\Controllers\\ActorsController.cs",
+              "RelativeToolTip": "Controllers\\ActorsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T11:07:26.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FilmRepository.cs",
+              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhFilmProgramming\\VinhFilmProgramming.DataAccess\\Implementation\\FilmRepository.cs",
+              "RelativeDocumentMoniker": "..\\VinhFilmProgramming.DataAccess\\Implementation\\FilmRepository.cs",
+              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhFilmProgramming\\VinhFilmProgramming.DataAccess\\Implementation\\FilmRepository.cs",
+              "RelativeToolTip": "..\\VinhFilmProgramming.DataAccess\\Implementation\\FilmRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T11:39:49.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhFilmProgramming\\VinhFilmProgramming.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhFilmProgramming\\VinhFilmProgramming.WebApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-18T11:44:49.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ActorRepository.cs",
+              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhFilmProgramming\\VinhFilmProgramming.DataAccess\\Implementation\\ActorRepository.cs",
+              "RelativeDocumentMoniker": "..\\VinhFilmProgramming.DataAccess\\Implementation\\ActorRepository.cs",
+              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhFilmProgramming\\VinhFilmProgramming.DataAccess\\Implementation\\ActorRepository.cs",
+              "RelativeToolTip": "..\\VinhFilmProgramming.DataAccess\\Implementation\\ActorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T11:36:30.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "VinhFilmProgramming.DataAccess.csproj",
+              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhFilmProgramming\\VinhFilmProgramming.DataAccess\\VinhFilmProgramming.DataAccess.csproj",
+              "RelativeDocumentMoniker": "..\\VinhFilmProgramming.DataAccess\\VinhFilmProgramming.DataAccess.csproj",
+              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhFilmProgramming\\VinhFilmProgramming.DataAccess\\VinhFilmProgramming.DataAccess.csproj",
+              "RelativeToolTip": "..\\VinhFilmProgramming.DataAccess\\VinhFilmProgramming.DataAccess.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-18T11:23:41.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhFilmProgramming\\VinhFilmProgramming.Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "..\\VinhFilmProgramming.Domain\\Entities\\Category.cs",
+              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhFilmProgramming\\VinhFilmProgramming.Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "..\\VinhFilmProgramming.Domain\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T11:14:02.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhFilmProgramming\\VinhFilmProgramming.Domain\\Repositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "..\\VinhFilmProgramming.Domain\\Repositories\\IGenericRepository.cs",
+              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhFilmProgramming\\VinhFilmProgramming.Domain\\Repositories\\IGenericRepository.cs",
+              "RelativeToolTip": "..\\VinhFilmProgramming.Domain\\Repositories\\IGenericRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T11:11:42.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "VinhFilmProgramming.Domain.csproj",
+              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhFilmProgramming\\VinhFilmProgramming.Domain\\VinhFilmProgramming.Domain.csproj",
+              "RelativeDocumentMoniker": "..\\VinhFilmProgramming.Domain\\VinhFilmProgramming.Domain.csproj",
+              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhFilmProgramming\\VinhFilmProgramming.Domain\\VinhFilmProgramming.Domain.csproj",
+              "RelativeToolTip": "..\\VinhFilmProgramming.Domain\\VinhFilmProgramming.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-18T11:10:26.444Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

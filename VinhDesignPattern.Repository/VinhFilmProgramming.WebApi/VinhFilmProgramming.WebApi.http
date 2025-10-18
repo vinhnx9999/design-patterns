@@ -1,0 +1,6 @@
+@VinhFilmProgramming.WebApi_HostAddress = http://localhost:5258
+
+GET {{VinhFilmProgramming.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
