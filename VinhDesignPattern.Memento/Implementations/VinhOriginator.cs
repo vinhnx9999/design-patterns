@@ -15,11 +15,11 @@ public class VinhOriginator
     public void DoSomething()
     {
         Console.WriteLine("Originator: I'm doing something important.");
-        this._state = this.GenerateRandomString(30);
+        _state = GenerateRandomString(30);
         Console.WriteLine($"Originator: and my state has changed to: {_state}");
     }
 
-    private string GenerateRandomString(int length = 10)
+    private static string GenerateRandomString(int length = 10)
     {
         string allowedSymbols = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
         string result = string.Empty;
@@ -38,17 +38,17 @@ public class VinhOriginator
 
     public IVinhMemento Save()
     {
-        return new ConcreteMemento(this._state);
+        return new ConcreteMemento(_state);
     }
 
     public void Restore(IVinhMemento memento)
     {
         if (memento is not ConcreteMemento)
         {
-            throw new Exception("Unknown memento class " + memento.ToString());
+            throw new ArgumentException($"Unknown memento class {memento}");
         }
 
-        this._state = memento.GetState();
+        _state = memento.GetState();
         Console.Write($"Originator: My state has changed to: {_state}");
     }
 }
