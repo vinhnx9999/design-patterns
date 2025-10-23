@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "PQUriOB62UM=",
+  "success": true,
+  "projectFilePath": "D:\\Containerization\\Vinh-Github\\VinhDesignPatterns\\VinhDesignPattern.Facade\\VinhDesignPattern.Facade.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\9.0.10\\microsoft.dotnet.ilcompiler.9.0.10.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.10\\microsoft.net.illink.tasks.9.0.10.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\9.0.10\\runtime.win-x64.microsoft.dotnet.ilcompiler.9.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
