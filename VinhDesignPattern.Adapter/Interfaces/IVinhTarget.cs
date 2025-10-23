@@ -1,7 +1,6 @@
-﻿namespace VinhDesignPattern.Adapter.Interfaces
+﻿namespace VinhDesignPattern.Adapter.Interfaces;
+
+public interface IVinhTarget
 {
-    public interface IVinhTarget
-    {
-        List<string> GetResponses();
-    }
+    List<string> GetResponses();
 }
