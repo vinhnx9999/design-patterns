@@ -12,12 +12,11 @@ public class VinhPerson
         return (VinhPerson)MemberwiseClone();
     }
 
-    [Obsolete]
     public VinhPerson DeepCopy()
     {
         VinhPerson clone = (VinhPerson)MemberwiseClone();
         clone.IdInfo = new IdInfo(IdInfo.IdNumber);
-        clone.Name = string.Copy(Name);
+        clone.Name = Name;
         return clone;
     }
 }

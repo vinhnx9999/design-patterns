@@ -4,7 +4,6 @@ namespace VinhDesignPattern.Prototype;
 
 public class Program
 {
-    [Obsolete]
     static void Main(string[] args)
     {
         Console.WriteLine("Hello, Prototype Design Pattern!");
