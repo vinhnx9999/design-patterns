@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Containerization\\Vinh-Github\\VinhDesignPatterns\\VinhDesignPattern.Memento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02C8B4E1-314E-47AA-AFDF-E6FAA35F40A2}|VinhDesignPattern.Memento.csproj|d:\\containerization\\vinh-github\\vinhdesignpatterns\\vinhdesignpattern.memento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02C8B4E1-314E-47AA-AFDF-E6FAA35F40A2}|VinhDesignPattern.Memento.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C8B4E1-314E-47AA-AFDF-E6FAA35F40A2}|VinhDesignPattern.Memento.csproj|d:\\containerization\\vinh-github\\vinhdesignpatterns\\vinhdesignpattern.memento\\interfaces\\ivinhmemento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02C8B4E1-314E-47AA-AFDF-E6FAA35F40A2}|VinhDesignPattern.Memento.csproj|solutionrelative:interfaces\\ivinhmemento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C8B4E1-314E-47AA-AFDF-E6FAA35F40A2}|VinhDesignPattern.Memento.csproj|d:\\containerization\\vinh-github\\vinhdesignpatterns\\vinhdesignpattern.memento\\implementations\\vinhoriginator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02C8B4E1-314E-47AA-AFDF-E6FAA35F40A2}|VinhDesignPattern.Memento.csproj|solutionrelative:implementations\\vinhoriginator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C8B4E1-314E-47AA-AFDF-E6FAA35F40A2}|VinhDesignPattern.Memento.csproj|d:\\containerization\\vinh-github\\vinhdesignpatterns\\vinhdesignpattern.memento\\implementations\\concretememento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02C8B4E1-314E-47AA-AFDF-E6FAA35F40A2}|VinhDesignPattern.Memento.csproj|solutionrelative:implementations\\concretememento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C8B4E1-314E-47AA-AFDF-E6FAA35F40A2}|VinhDesignPattern.Memento.csproj|d:\\containerization\\vinh-github\\vinhdesignpatterns\\vinhdesignpattern.memento\\implementations\\caretaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02C8B4E1-314E-47AA-AFDF-E6FAA35F40A2}|VinhDesignPattern.Memento.csproj|solutionrelative:implementations\\caretaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VinhOriginator.cs",
+              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhDesignPatterns\\VinhDesignPattern.Memento\\Implementations\\VinhOriginator.cs",
+              "RelativeDocumentMoniker": "Implementations\\VinhOriginator.cs",
+              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhDesignPatterns\\VinhDesignPattern.Memento\\Implementations\\VinhOriginator.cs",
+              "RelativeToolTip": "Implementations\\VinhOriginator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T08:09:58.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Caretaker.cs",
+              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhDesignPatterns\\VinhDesignPattern.Memento\\Implementations\\Caretaker.cs",
+              "RelativeDocumentMoniker": "Implementations\\Caretaker.cs",
+              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhDesignPatterns\\VinhDesignPattern.Memento\\Implementations\\Caretaker.cs",
+              "RelativeToolTip": "Implementations\\Caretaker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T07:58:56.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConcreteMemento.cs",
+              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhDesignPatterns\\VinhDesignPattern.Memento\\Implementations\\ConcreteMemento.cs",
+              "RelativeDocumentMoniker": "Implementations\\ConcreteMemento.cs",
+              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhDesignPatterns\\VinhDesignPattern.Memento\\Implementations\\ConcreteMemento.cs",
+              "RelativeToolTip": "Implementations\\ConcreteMemento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T07:55:08.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IVinhMemento.cs",
+              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhDesignPatterns\\VinhDesignPattern.Memento\\Interfaces\\IVinhMemento.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IVinhMemento.cs",
+              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhDesignPatterns\\VinhDesignPattern.Memento\\Interfaces\\IVinhMemento.cs",
+              "RelativeToolTip": "Interfaces\\IVinhMemento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T07:54:02.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhDesignPatterns\\VinhDesignPattern.Memento\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhDesignPatterns\\VinhDesignPattern.Memento\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T07:51:15.683Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
