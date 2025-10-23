@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "VinhDesignPattern.Prototype": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
