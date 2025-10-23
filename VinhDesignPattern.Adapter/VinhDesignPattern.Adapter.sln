@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36616.10 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VinhDesignPattern.Adapter", "VinhDesignPattern.Adapter.csproj", "{D864CF0E-CF62-4237-B55B-D6D9EDB1E85D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D864CF0E-CF62-4237-B55B-D6D9EDB1E85D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D864CF0E-CF62-4237-B55B-D6D9EDB1E85D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D864CF0E-CF62-4237-B55B-D6D9EDB1E85D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D864CF0E-CF62-4237-B55B-D6D9EDB1E85D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FFF7AC1-7C64-4712-BA25-25E4D7E32561}
+	EndGlobalSection
+EndGlobal
