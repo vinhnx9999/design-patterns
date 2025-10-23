@@ -20,12 +20,9 @@ public class UnitOfWork(VinhFilmDbContext dbContext) : IUnitOfWork
 
     protected virtual void Dispose(bool disposing)
     {
-        if (!_disposed)
+        if (!_disposed && disposing)
         {
-            if (disposing)
-            {
-                _dbContext.Dispose();
-            }
+            _dbContext.Dispose();
         }
         _disposed = true;
     }
