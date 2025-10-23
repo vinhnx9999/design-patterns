@@ -30,8 +30,9 @@ public class Caretaker(VinhOriginator originator)
         {
             _originator.Restore(memento);
         }
-        catch (Exception)
+        catch (ArgumentException)
         {
+            Console.WriteLine("Caretaker: Undo the state");
             Undo();
         }
     }
