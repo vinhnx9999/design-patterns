@@ -8,10 +8,7 @@ public class VinhSubject : ISubject
     private int articlesCount = 1;
     public int Articles
     {
-        get
-        {
-            return articlesCount;
-        }
+        get => articlesCount;
         set
         {
             if (value > articlesCount)

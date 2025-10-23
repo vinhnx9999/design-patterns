@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\Containerization\\Vinh-Github\\VinhDesignPatterns\\VinhDesignPattern.Observer\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{530D001E-1CF6-44EA-9EBD-E67BB459B8EF}|VinhDesignPattern.Observer.csproj|d:\\containerization\\vinh-github\\vinhdesignpatterns\\vinhdesignpattern.observer\\implementations\\vinhsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{530D001E-1CF6-44EA-9EBD-E67BB459B8EF}|VinhDesignPattern.Observer.csproj|solutionrelative:implementations\\vinhsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{530D001E-1CF6-44EA-9EBD-E67BB459B8EF}|VinhDesignPattern.Observer.csproj|d:\\containerization\\vinh-github\\vinhdesignpatterns\\vinhdesignpattern.observer\\implementations\\vinhobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{530D001E-1CF6-44EA-9EBD-E67BB459B8EF}|VinhDesignPattern.Observer.csproj|solutionrelative:implementations\\vinhobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{530D001E-1CF6-44EA-9EBD-E67BB459B8EF}|VinhDesignPattern.Observer.csproj|d:\\containerization\\vinh-github\\vinhdesignpatterns\\vinhdesignpattern.observer\\interfaces\\isubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{530D001E-1CF6-44EA-9EBD-E67BB459B8EF}|VinhDesignPattern.Observer.csproj|solutionrelative:interfaces\\isubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,16 +19,8 @@
       "RelativeMoniker": "D:0:0:{530D001E-1CF6-44EA-9EBD-E67BB459B8EF}|VinhDesignPattern.Observer.csproj|solutionrelative:interfaces\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{530D001E-1CF6-44EA-9EBD-E67BB459B8EF}|VinhDesignPattern.Observer.csproj|d:\\containerization\\vinh-github\\vinhdesignpatterns\\vinhdesignpattern.observer\\implementations\\vinhsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{530D001E-1CF6-44EA-9EBD-E67BB459B8EF}|VinhDesignPattern.Observer.csproj|solutionrelative:implementations\\vinhsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{530D001E-1CF6-44EA-9EBD-E67BB459B8EF}|VinhDesignPattern.Observer.csproj|d:\\containerization\\vinh-github\\vinhdesignpatterns\\vinhdesignpattern.observer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{530D001E-1CF6-44EA-9EBD-E67BB459B8EF}|VinhDesignPattern.Observer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{530D001E-1CF6-44EA-9EBD-E67BB459B8EF}|VinhDesignPattern.Observer.csproj|d:\\containerization\\vinh-github\\vinhdesignpatterns\\vinhdesignpattern.observer\\implementations\\vinhobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{530D001E-1CF6-44EA-9EBD-E67BB459B8EF}|VinhDesignPattern.Observer.csproj|solutionrelative:implementations\\vinhobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,28 +30,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "VinhSubject.cs",
               "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhDesignPatterns\\VinhDesignPattern.Observer\\Implementations\\VinhSubject.cs",
               "RelativeDocumentMoniker": "Implementations\\VinhSubject.cs",
-              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhDesignPatterns\\VinhDesignPattern.Observer\\Implementations\\VinhSubject.cs",
-              "RelativeToolTip": "Implementations\\VinhSubject.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhDesignPatterns\\VinhDesignPattern.Observer\\Implementations\\VinhSubject.cs*",
+              "RelativeToolTip": "Implementations\\VinhSubject.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-23T05:31:19.516Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ISubject.cs",
               "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhDesignPatterns\\VinhDesignPattern.Observer\\Interfaces\\ISubject.cs",
               "RelativeDocumentMoniker": "Interfaces\\ISubject.cs",
@@ -64,20 +60,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "VinhObserver.cs",
               "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhDesignPatterns\\VinhDesignPattern.Observer\\Implementations\\VinhObserver.cs",
               "RelativeDocumentMoniker": "Implementations\\VinhObserver.cs",
               "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhDesignPatterns\\VinhDesignPattern.Observer\\Implementations\\VinhObserver.cs",
               "RelativeToolTip": "Implementations\\VinhObserver.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-23T05:28:09.001Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "IObserver.cs",
               "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhDesignPatterns\\VinhDesignPattern.Observer\\Interfaces\\IObserver.cs",
               "RelativeDocumentMoniker": "Interfaces\\IObserver.cs",
@@ -85,12 +81,11 @@
               "RelativeToolTip": "Interfaces\\IObserver.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T05:26:35.008Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-23T05:26:35.008Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhDesignPatterns\\VinhDesignPattern.Observer\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -98,8 +93,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T05:22:47.702Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-23T05:22:47.702Z"
             }
           ]
         }

@@ -30,14 +30,8 @@ public class Program
 
         Console.WriteLine("\n*****************************************************************************************************\n");
 
-        Thread process1 = new(() =>
-        {
-            TestSingleton("FOO");
-        });
-        Thread process2 = new(() =>
-        {
-            TestSingleton("BAR");
-        });
+        Thread process1 = new(() => TestSingleton("FOO"));
+        Thread process2 = new(() => TestSingleton("BAR"));
 
         Console.WriteLine("Hello, singleton FOO");
         process1.Start();
