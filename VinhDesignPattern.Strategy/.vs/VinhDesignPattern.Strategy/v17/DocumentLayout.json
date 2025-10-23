@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "D:\\Containerization\\Vinh-Github\\VinhDesignPatterns\\VinhDesignPattern.Strategy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7707B776-3CFE-4A60-AAEB-38A68995B27B}|VinhDesignPattern.Strategy.csproj|d:\\containerization\\vinh-github\\vinhdesignpatterns\\vinhdesignpattern.strategy\\implementations\\bikestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7707B776-3CFE-4A60-AAEB-38A68995B27B}|VinhDesignPattern.Strategy.csproj|solutionrelative:implementations\\bikestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7707B776-3CFE-4A60-AAEB-38A68995B27B}|VinhDesignPattern.Strategy.csproj|d:\\containerization\\vinh-github\\vinhdesignpatterns\\vinhdesignpattern.strategy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7707B776-3CFE-4A60-AAEB-38A68995B27B}|VinhDesignPattern.Strategy.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7707B776-3CFE-4A60-AAEB-38A68995B27B}|VinhDesignPattern.Strategy.csproj|d:\\containerization\\vinh-github\\vinhdesignpatterns\\vinhdesignpattern.strategy\\implementations\\busstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7707B776-3CFE-4A60-AAEB-38A68995B27B}|VinhDesignPattern.Strategy.csproj|solutionrelative:implementations\\busstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7707B776-3CFE-4A60-AAEB-38A68995B27B}|VinhDesignPattern.Strategy.csproj|d:\\containerization\\vinh-github\\vinhdesignpatterns\\vinhdesignpattern.strategy\\interfaces\\istrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7707B776-3CFE-4A60-AAEB-38A68995B27B}|VinhDesignPattern.Strategy.csproj|solutionrelative:interfaces\\istrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7707B776-3CFE-4A60-AAEB-38A68995B27B}|VinhDesignPattern.Strategy.csproj|d:\\containerization\\vinh-github\\vinhdesignpatterns\\vinhdesignpattern.strategy\\travelstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7707B776-3CFE-4A60-AAEB-38A68995B27B}|VinhDesignPattern.Strategy.csproj|solutionrelative:travelstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7707B776-3CFE-4A60-AAEB-38A68995B27B}|VinhDesignPattern.Strategy.csproj|d:\\containerization\\vinh-github\\vinhdesignpatterns\\vinhdesignpattern.strategy\\implementations\\carstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7707B776-3CFE-4A60-AAEB-38A68995B27B}|VinhDesignPattern.Strategy.csproj|solutionrelative:implementations\\carstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7707B776-3CFE-4A60-AAEB-38A68995B27B}|VinhDesignPattern.Strategy.csproj|d:\\containerization\\vinh-github\\vinhdesignpatterns\\vinhdesignpattern.strategy\\interfaces\\istrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7707B776-3CFE-4A60-AAEB-38A68995B27B}|VinhDesignPattern.Strategy.csproj|solutionrelative:interfaces\\istrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7707B776-3CFE-4A60-AAEB-38A68995B27B}|VinhDesignPattern.Strategy.csproj|d:\\containerization\\vinh-github\\vinhdesignpatterns\\vinhdesignpattern.strategy\\implementations\\bikestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7707B776-3CFE-4A60-AAEB-38A68995B27B}|VinhDesignPattern.Strategy.csproj|solutionrelative:implementations\\bikestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,7 +42,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "BusStrategy.cs",
+              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhDesignPatterns\\VinhDesignPattern.Strategy\\Implementations\\BusStrategy.cs",
+              "RelativeDocumentMoniker": "Implementations\\BusStrategy.cs",
+              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhDesignPatterns\\VinhDesignPattern.Strategy\\Implementations\\BusStrategy.cs",
+              "RelativeToolTip": "Implementations\\BusStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T05:07:32.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TravelStrategy.cs",
+              "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhDesignPatterns\\VinhDesignPattern.Strategy\\TravelStrategy.cs",
+              "RelativeDocumentMoniker": "TravelStrategy.cs",
+              "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhDesignPatterns\\VinhDesignPattern.Strategy\\TravelStrategy.cs",
+              "RelativeToolTip": "TravelStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T05:05:47.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "BikeStrategy.cs",
               "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhDesignPatterns\\VinhDesignPattern.Strategy\\Implementations\\BikeStrategy.cs",
               "RelativeDocumentMoniker": "Implementations\\BikeStrategy.cs",
@@ -47,39 +81,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "CarStrategy.cs",
               "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhDesignPatterns\\VinhDesignPattern.Strategy\\Implementations\\CarStrategy.cs",
               "RelativeDocumentMoniker": "Implementations\\CarStrategy.cs",
               "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhDesignPatterns\\VinhDesignPattern.Strategy\\Implementations\\CarStrategy.cs",
               "RelativeToolTip": "Implementations\\CarStrategy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-23T04:54:47.663Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "IStrategy.cs",
               "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhDesignPatterns\\VinhDesignPattern.Strategy\\Interfaces\\IStrategy.cs",
               "RelativeDocumentMoniker": "Interfaces\\IStrategy.cs",
               "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhDesignPatterns\\VinhDesignPattern.Strategy\\Interfaces\\IStrategy.cs",
               "RelativeToolTip": "Interfaces\\IStrategy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-23T04:53:31.391Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Containerization\\Vinh-Github\\VinhDesignPatterns\\VinhDesignPattern.Strategy\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Containerization\\Vinh-Github\\VinhDesignPatterns\\VinhDesignPattern.Strategy\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBkAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAtwBcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-23T04:51:11.868Z",
               "EditorCaption": ""

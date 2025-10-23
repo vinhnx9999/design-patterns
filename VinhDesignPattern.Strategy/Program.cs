@@ -1,4 +1,5 @@
-﻿using VinhDesignPattern.Strategy.Implementations;
+﻿using System.Globalization;
+using VinhDesignPattern.Strategy.Implementations;
 
 namespace VinhDesignPattern.Strategy;
 
@@ -17,22 +18,23 @@ public class Program
         string fromAddr = "Ha Noi";
         string toAddr = "Thanh Hoa";
 
-        switch (userStrategy.ToLower())
+        string transportMode = userStrategy.ToLower();
+        string result = "You have chosen an invalid mode of transport.";
+        switch (transportMode)
         {
             case "car":
-                new TravelStrategy(new CarStrategy()).GetTravelTime(fromAddr, toAddr);
+                result = new TravelStrategy(new CarStrategy()).GetTravelTime(fromAddr, toAddr);
                 break;
             case "bike":
-                new TravelStrategy(new BikeStrategy()).GetTravelTime(fromAddr, toAddr);
+                result = new TravelStrategy(new BikeStrategy()).GetTravelTime(fromAddr, toAddr);
                 break;
             case "bus":
-                new TravelStrategy(new BusStrategy()).GetTravelTime(fromAddr, toAddr);
+                result = new TravelStrategy(new BusStrategy()).GetTravelTime(fromAddr, toAddr);
                 break;
-            default:
-                Console.WriteLine("You have chosen an invalid mode of transport.");
+            default:                
                 break;
         }
-
+        Console.WriteLine(result);
         Console.ReadLine();
     }
 }
